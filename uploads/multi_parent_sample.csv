@@ -1,0 +1,2 @@
+Name,Relation,FatherName,MotherName,Occupation,Income,Education,MobileNo,Email,Address,City,State,Username,Password
+John Doe,Father,Robert Doe,Jane Doe,Engineer,50000,Bachelor,254712345678,john@example.com,123 Main St,Nairobi,Nairobi,johndoe,password123
